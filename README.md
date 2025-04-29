@@ -1,1 +1,1 @@
-You can learn the Excel command and download it .
+You can learn the Excel command/formulas and download it .
